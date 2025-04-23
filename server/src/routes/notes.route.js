@@ -5,7 +5,7 @@ import { authenticateUser } from "../middleware/auth.middleware.js";
 const router = express.Router();
 
 router.post("/",authenticateUser, createNote)
-router.get("/",getNotes)
+router.get("/",authenticateUser,getNotes)
 router.delete("/delete/:id",authenticateUser,deleteNote)
 
 export default router;
