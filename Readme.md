@@ -99,10 +99,10 @@ CORS_ORIGIN = http://localhost:3000
 
 ## 📸 Project Preview
 
-### Dashboard with Notes  
+### Landing Page  
 ![Landing Page](./client/public/1.png)
 
-### Note Editor  
+### Note Editor with Notes  
 ![Note Editor](./client/public/2.png)
 
 ### AI Summarizer 
