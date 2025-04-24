@@ -66,7 +66,7 @@ export default function Home() {
   
   <div className="p-4 max-w-7xl mx-auto relative z-20 w-full pt-20 md:pt-0 text-center ">
     <h1 className="text-4xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-white to-zinc-400">
-      AI Note Summarizer
+      AI Notes Summarizer
     </h1>
     <p className="mt-4 text-base text-neutral-300 max-w-xl mx-auto">
       Turn your thoughts into organized notes powered by AI. Seamless. Smart. Simple.
